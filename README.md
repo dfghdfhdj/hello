@@ -1,2 +1,3 @@
-# hello
-my first programme
+hello
+my first
+I am new here.
